@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gatike-RajuKumar
 - 👀 I'm interested in programming
 - 🌱 I’m currently learning  Full Stack Web Development
-- 💞️ I’m looking to collaborate on gihub
+- 💞️ I’m looking to collaborate on github
   
 
 <!---
